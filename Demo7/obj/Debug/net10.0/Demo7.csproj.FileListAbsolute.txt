@@ -1,0 +1,15 @@
+C:\Projectos\PrimeirosProjectos\Demo7\bin\Debug\net10.0\Demo7.exe
+C:\Projectos\PrimeirosProjectos\Demo7\bin\Debug\net10.0\Demo7.deps.json
+C:\Projectos\PrimeirosProjectos\Demo7\bin\Debug\net10.0\Demo7.runtimeconfig.json
+C:\Projectos\PrimeirosProjectos\Demo7\bin\Debug\net10.0\Demo7.dll
+C:\Projectos\PrimeirosProjectos\Demo7\bin\Debug\net10.0\Demo7.pdb
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.AssemblyInfoInputs.cache
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.AssemblyInfo.cs
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.csproj.CoreCompileInputs.cache
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.dll
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\refint\Demo7.dll
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.pdb
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.genruntimeconfig.cache
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\ref\Demo7.dll
+C:\Projectos\PrimeirosProjectos\Demo7\obj\Debug\net10.0\Demo7.csproj.Up2Date

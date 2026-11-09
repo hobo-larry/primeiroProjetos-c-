@@ -1,0 +1,15 @@
+C:\Projectos\PrimeirosProjectos\exercicio_09\bin\Debug\net10.0\exercicio_09.exe
+C:\Projectos\PrimeirosProjectos\exercicio_09\bin\Debug\net10.0\exercicio_09.deps.json
+C:\Projectos\PrimeirosProjectos\exercicio_09\bin\Debug\net10.0\exercicio_09.runtimeconfig.json
+C:\Projectos\PrimeirosProjectos\exercicio_09\bin\Debug\net10.0\exercicio_09.dll
+C:\Projectos\PrimeirosProjectos\exercicio_09\bin\Debug\net10.0\exercicio_09.pdb
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.AssemblyInfoInputs.cache
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.AssemblyInfo.cs
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.csproj.CoreCompileInputs.cache
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.dll
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\refint\exercicio_09.dll
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.pdb
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercicio_09.genruntimeconfig.cache
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\ref\exercicio_09.dll
+C:\Projectos\PrimeirosProjectos\exercicio_09\obj\Debug\net10.0\exercici.8C053CF7.Up2Date

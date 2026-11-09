@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="Demo1/Demo1.csproj" />
+  <Project Path="Demo2/Demo2.csproj" Id="c85a7231-4824-4354-b437-00331141fddf" />
+  <Project Path="Demo3/Demo3.csproj" Id="26662019-c5cb-44a1-9de1-3f8f379c2dab" />
+  <Project Path="Demo4/Demo4.csproj" Id="34ea158b-52a5-4f99-a3d8-d6258a304471" />
+  <Project Path="Demo5/Demo5.csproj" Id="c6fde5b2-37cc-47e6-9ae0-a70a03f3c28a" />
+  <Project Path="Demo6/Demo6.csproj" Id="87158500-591c-4723-97d7-81958182ff23" />
+  <Project Path="Demo7/Demo7.csproj" Id="5c555299-1e45-4cbf-9123-d55885926e02" />
+  <Project Path="Demo8/Demo8.csproj" Id="0c05507a-e89f-4b6e-853e-ff645528ff76" />
+  <Project Path="exercicio_01/exercicio_01.csproj" Id="c3adf103-ab9c-4688-aa2e-1bede1689e6e" />
+  <Project Path="exercicio_02/exercicio_02.csproj" Id="1ef95cff-7d54-46db-bd5f-4555a0b79082" />
+  <Project Path="exercicio_03/exercicio_03.csproj" Id="fc6b3992-7aa1-4d6d-8049-9d816d8025a8" />
+  <Project Path="exercicio_04/exercicio_04.csproj" Id="46a5a871-84d8-4431-83ca-cb2401cbdd3a" />
+  <Project Path="exercicio_05/exercicio_05.csproj" Id="139214bf-b4d7-495f-8d24-62709ef7b636" />
+  <Project Path="exercicio_06/exercicio_06.csproj" Id="3d99008f-e9f8-44a3-9b13-038a2d93365b" />
+  <Project Path="exercicio_07/exercicio_07.csproj" Id="4455bb5c-f992-4da6-9c49-cfce87aff507" />
+  <Project Path="exercicio_08/exercicio_08.csproj" Id="17aef06b-3abf-48ee-82c6-613ee0d7dc09" />
+  <Project Path="exercicio_09/exercicio_09.csproj" Id="6fd52cad-d86a-4935-9dd3-6603e5f554eb" />
+  <Project Path="exercicio_10/exercicio_10.csproj" Id="b0905941-8b18-435b-afb7-cc27b1ae05cc" />
+  <Project Path="exercicio_11/exercicio_11.csproj" Id="677b7fef-4679-49f8-be77-f3c108d1773a" />
+  <Project Path="exercicio_12/exercicio_12.csproj" Id="c6898ada-c047-431f-95b2-ad0e6526b4f5" />
+  <Project Path="exercicio_13/exercicio_13.csproj" Id="b66c7f87-b9b0-44d0-9998-f083f6098de2" />
+</Solution>

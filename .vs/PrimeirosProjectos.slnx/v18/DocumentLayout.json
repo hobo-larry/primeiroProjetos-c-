@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projectos\\PrimeirosProjectos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|c:\\projectos\\primeirosprojectos\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4455BB5C-F992-4DA6-9C49-CFCE87AFF507}|exercicio_07\\exercicio_07.csproj|c:\\projectos\\primeirosprojectos\\exercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4455BB5C-F992-4DA6-9C49-CFCE87AFF507}|exercicio_07\\exercicio_07.csproj|solutionrelative:exercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD52CAD-D86A-4935-9DD3-6603E5F554EB}|exercicio_09\\exercicio_09.csproj|c:\\projectos\\primeirosprojectos\\exercicio_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD52CAD-D86A-4935-9DD3-6603E5F554EB}|exercicio_09\\exercicio_09.csproj|solutionrelative:exercicio_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6898ADA-C047-431F-95B2-AD0E6526B4F5}|exercicio_12\\exercicio_12.csproj|c:\\projectos\\primeirosprojectos\\exercicio_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6898ADA-C047-431F-95B2-AD0E6526B4F5}|exercicio_12\\exercicio_12.csproj|solutionrelative:exercicio_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677B7FEF-4679-49F8-BE77-F3C108D1773A}|exercicio_11\\exercicio_11.csproj|c:\\projectos\\primeirosprojectos\\exercicio_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677B7FEF-4679-49F8-BE77-F3C108D1773A}|exercicio_11\\exercicio_11.csproj|solutionrelative:exercicio_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0905941-8B18-435B-AFB7-CC27B1AE05CC}|exercicio_10\\exercicio_10.csproj|c:\\projectos\\primeirosprojectos\\exercicio_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0905941-8B18-435B-AFB7-CC27B1AE05CC}|exercicio_10\\exercicio_10.csproj|solutionrelative:exercicio_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:32:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\exercicio_07\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_07\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\exercicio_07\\Program.cs",
+              "RelativeToolTip": "exercicio_07\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:46:15.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\exercicio_12\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_12\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\exercicio_12\\Program.cs",
+              "RelativeToolTip": "exercicio_12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:10:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\exercicio_11\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_11\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\exercicio_11\\Program.cs",
+              "RelativeToolTip": "exercicio_11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:03:44.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\exercicio_10\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_10\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\exercicio_10\\Program.cs",
+              "RelativeToolTip": "exercicio_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:54:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projectos\\PrimeirosProjectos\\exercicio_09\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_09\\Program.cs",
+              "ToolTip": "C:\\Projectos\\PrimeirosProjectos\\exercicio_09\\Program.cs",
+              "RelativeToolTip": "exercicio_09\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:35:03.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

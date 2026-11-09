@@ -1,0 +1,15 @@
+C:\Projectos\PrimeirosProjectos\exercicio_01\bin\Debug\net10.0\exercicio_01.exe
+C:\Projectos\PrimeirosProjectos\exercicio_01\bin\Debug\net10.0\exercicio_01.deps.json
+C:\Projectos\PrimeirosProjectos\exercicio_01\bin\Debug\net10.0\exercicio_01.runtimeconfig.json
+C:\Projectos\PrimeirosProjectos\exercicio_01\bin\Debug\net10.0\exercicio_01.dll
+C:\Projectos\PrimeirosProjectos\exercicio_01\bin\Debug\net10.0\exercicio_01.pdb
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.AssemblyInfoInputs.cache
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.AssemblyInfo.cs
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.csproj.CoreCompileInputs.cache
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.dll
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\refint\exercicio_01.dll
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.pdb
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercicio_01.genruntimeconfig.cache
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\ref\exercicio_01.dll
+C:\Projectos\PrimeirosProjectos\exercicio_01\obj\Debug\net10.0\exercici.C6DD3CF7.Up2Date
